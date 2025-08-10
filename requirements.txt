@@ -9,3 +9,4 @@ jinja2
 tensorflow
 keras
 datetime
+gunicorn
