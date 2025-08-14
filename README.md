@@ -1,15 +1,16 @@
 # 📈 Stock Price Prediction
 
+> 🚀 A deep learning-powered web application for predicting stock prices using historical data and LSTM (Long Short-Term Memory) networks, deployed on AWS.
+
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  
 ![Flask](https://img.shields.io/badge/Flask-2.0-lightgrey)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-orange)  
 
-> 🚀 A deep learning-powered web application for predicting stock prices using historical data and LSTM (Long Short-Term Memory) networks, deployed on AWS.
-
 ---
 
 ## 🌐 Live Demo
-🔗 **Deployed App:** Click Here - [Stock Price Prediction ](http://13.234.31.124:5000)
+🔗 **Deployed App : ** Click Here - [Stock Price Prediction ](http://13.234.31.124:5000)
 
 ---
 
