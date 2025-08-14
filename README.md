@@ -66,3 +66,30 @@ E --> F[LSTM Model Training & Prediction]
 F --> G[Evaluation Metrics: MAE, RMSE]
 G --> H[Results Visualization]
 H --> I[Output Shown on Web Application]
+```
+
+---
+
+## 📦 Installation
+
+Follow these steps to run the project locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/KingRK786/Stock_Price_Prediction.git
+cd Stock_Price_Prediction
+
+# 2️⃣ Create a virtual environment
+python -m venv venv
+# Activate the virtual environment:
+# On Linux/Mac:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+
+# 3️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 4️⃣ Run the Flask application
+python app.py
+```
