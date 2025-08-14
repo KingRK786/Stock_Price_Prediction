@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **Deployed App:** [Click Here to Try](http://13.234.31.124:5000)
+🔗 **Deployed App:** Click Here - [Stock Price Prediction ](http://13.234.31.124:5000)
 
 ---
 
@@ -19,11 +19,10 @@
 3. [Tech Stack](#-tech-stack)  
 4. [Project Workflow](#-project-workflow)  
 5. [Installation](#-installation)  
-6. [Deployment](#-deployment)  
-7. [Screenshots](#-screenshots)  
-8. [Future Enhancements](#-future-enhancements)  
-9. [Contributors](#-contributors)  
-10. [License](#-license)  
+6. [Deployment](#-deployment)
+ 
+
+ 
 
 ---
 
